@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"type":null,"guestpath":"/var/www/html","hostpath":"/Users/teejten/DevBoxs/php7dev/site1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/teejten/DevBoxs/php7dev","disabled":false,"__vagrantfile":true}}}
